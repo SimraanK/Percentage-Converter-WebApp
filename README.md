@@ -5,3 +5,5 @@ With a simple and intuitive interface, users can input any number and the progra
 This tool is perfect for anyone who needs to quickly and accurately convert numbers into percentages, whether for school, work, or personal use. 
 The project is also designed to be lightweight and easy to use, making it accessible for all skill levels. 
 Overall, the Percentage Converter project is a must-have tool for anyone looking to simplify and streamline their percentage calculations.
+
+Happy Coding🖤
